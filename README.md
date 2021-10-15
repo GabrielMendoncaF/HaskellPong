@@ -1,7 +1,7 @@
 # **HASKELLPONG**
 # Jogo PONG em linguagem funcional HASKELL
 
-![alt text](https://github.com/ufabc-bcc/paradigmas-2021-q2-projeto-final-Gabriel-mendonca-f/blob/main/Imagem%20do%20jogo.png?raw=true)
+![alt text](https://github.com/GabrielMendoncaF/HaskellPong/blob/main/Imagem%20do%20jogo.png?raw=true)
 
 Descrição do Projeto 📋
 ====================
